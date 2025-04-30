@@ -26,10 +26,10 @@ const Header = () => {
 
       {/* Navigation */}
       <nav className="flex items-center space-x-6">
-        {/* Why Moroth */}
-        <Link href="/about" className="font-IBMPlexSansArabic text-xl font-semibold text-yellow-500">
+        {/* <Link href="/about" className="font-IBMPlexSansArabic text-xl font-semibold text-yellow-500">
           لماذا موروث؟
-        </Link>
+        </Link> */}
+        
 
         {/* Icons */}
         <div className="flex items-center space-x-4">
