@@ -28,7 +28,7 @@ const Header = () => {
       <nav className="flex items-center space-x-6">
         {/* Why Moroth */}
         <Link href="/about" className="font-IBMPlexSansArabic text-xl font-semibold text-yellow-500">
-          لماذا موروث؟
+
         </Link>
 
         {/* Icons */}
